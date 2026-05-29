@@ -1,0 +1,73 @@
+2026-05-29 11:05:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 11:05:50 INFO  LoginTest:21 - Logging into account 
+2026-05-29 11:05:52 INFO  LoginTest:44 - test case finished 
+2026-05-29 12:00:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:01:03 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:01:04 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:01:05 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:01:05 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:01:06 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:02:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:02:17 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:02:17 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:02:18 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:02:19 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:02:19 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:05:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:05:36 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:05:37 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:05:38 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:05:38 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:05:39 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:08:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:08:42 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:08:43 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:08:43 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:08:44 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:08:45 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:12:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:12:20 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:12:31 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:12:42 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:12:52 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:13:03 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:17:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 12:18:07 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:18:11 INFO  LoginDDT:89 - **** Finished TC_003_LoginDDT *****
+2026-05-29 12:18:11 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:18:15 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:18:18 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:18:31 INFO  LoginDDT:28 - **** Starting TC_003_LoginDDT *****
+2026-05-29 12:18:33 INFO  LoginDDT:89 - **** Finished TC_003_LoginDDT *****
+2026-05-29 13:34:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_folder\Mayuri_SeleniumDemo\OpencarFirstProject\master.xml
+
+2026-05-29 13:34:09 INFO  AccountRegistrationTest:17 - ------------Started test --------------------
+2026-05-29 13:34:10 INFO  AccountRegistrationTest:25 - ----- login details entered
+2026-05-29 13:34:13 INFO  AccountRegistrationTest:57 - ----- test case finished 
+2026-05-29 13:34:18 INFO  LoginTest:22 - Logging into account 
+2026-05-29 13:34:20 INFO  LoginTest:49 - test case finished 
+2026-05-29 19:04:55 INFO  AccountRegistrationTest:17 - ------------Started test --------------------
+2026-05-29 19:04:56 INFO  AccountRegistrationTest:25 - ----- login details entered
+2026-05-29 19:05:01 INFO  AccountRegistrationTest:57 - ----- test case finished 
+2026-05-29 19:05:06 INFO  LoginTest:22 - Logging into account 
+2026-05-29 19:05:08 INFO  LoginTest:49 - test case finished 
+2026-05-29 19:09:34 INFO  AccountRegistrationTest:17 - ------------Started test --------------------
+2026-05-29 19:09:34 INFO  AccountRegistrationTest:25 - ----- login details entered
+2026-05-29 19:09:37 INFO  AccountRegistrationTest:57 - ----- test case finished 
+2026-05-29 19:09:41 INFO  LoginTest:22 - Logging into account 
+2026-05-29 19:09:43 INFO  LoginTest:49 - test case finished 
